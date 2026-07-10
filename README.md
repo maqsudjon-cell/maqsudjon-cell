@@ -10,9 +10,9 @@ I design, build and ship complete web products alone — free IELTS & English-le
 
 | Project | What it is |
 |---|---|
-| **[pangea8.com](https://pangea8.com)** | Free IELTS ecosystem — 90+ listening & reading tests, essay platform with AI band-score feedback, speaking lab (166 topics), teacher dashboards |
+| **[flarestamina.com](https://flarestamina.com)** | Free IELTS ecosystem — 90+ listening & reading tests, essay platform with AI band-score feedback, speaking lab (166 topics), teacher dashboards |
 | **[flarestamina.com](https://flarestamina.com)** | 40-day IELTS challenge tracker — PWA, live leaderboard, streak heatmap |
-| **[ID Photo Maker](https://maqsudjon-cell.github.io/id-passport-photo-maker/)** | Passport/visa photos with on-device AI background whitening — nothing leaves your phone |
+| **[ID Photo Maker](https://flarestamina.com/id-passport-photo-maker/)** | Passport/visa photos with on-device AI background whitening — nothing leaves your phone |
 | **[pierics.com](https://pierics.com)** | A word game — six tries, hand-curated word list |
 | **[minnos.cc](https://minnos.cc)** | English idioms, one cat at a time — audio + Uzbek |
 | **[explainer-engine](https://github.com/maqsudjon-cell/explainer-engine)** | Topic → branded explainer video, soundtrack generated from code |
@@ -20,7 +20,7 @@ I design, build and ship complete web products alone — free IELTS & English-le
 
 ### 🎯 Now
 
-→ Growing pangea8 past 100 free tests
+→ Growing Flarestamina past 100 free tests
 → Building AI agents and LLM tooling
 → Open to collaborations and internships
 
