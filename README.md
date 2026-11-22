@@ -1,8 +1,10 @@
-### ✳ Maqsudjon Polatov — Engineer & Creator
+### ✳ Maqsudjon Polatov — Product engineer
 
-**A one-person lab for acting in code and steel** — Tashkent, Uzbekistan.
+**Welds metal by day, ships software by night.** Tashkent, Uzbekistan.
 
-I design, build and ship complete web products alone — free IELTS & English-learning platforms, AI agents and small sharp tools — usually as single self-contained files on their own domains, used by real students every day.
+I direct AI coding agents end to end: spec, architecture, build, DNS and TLS, App Store releases, operations. **19 live sites, 2 App Store apps, 15 domains** — built solo, in my own hours, on Cloudflare Workers and GitHub Pages.
+
+🌐 **[tou.gg](https://tou.gg)** — main site and notes on every project · 🧪 **[maqsudjon.com](https://maqsudjon.com)** — the lab and build log · 📄 **[CV](https://maqsudjon.com/cv/)** ([PDF](https://maqsudjon.com/cv.pdf))
 
 ---
 
@@ -10,24 +12,65 @@ I design, build and ship complete web products alone — free IELTS & English-le
 
 | Project | What it is |
 |---|---|
-| **[flarestamina.com](https://flarestamina.com)** | Free IELTS ecosystem — 90+ listening & reading tests, essay platform with AI band-score feedback, speaking lab (166 topics), teacher dashboards |
-| **[flarestamina.com](https://flarestamina.com)** | 40-day IELTS challenge tracker — PWA, live leaderboard, streak heatmap |
-| **[ID Photo Maker](https://flarestamina.com/id-passport-photo-maker/)** | Passport/visa photos with on-device AI background whitening — nothing leaves your phone |
-| **[pierics.com](https://pierics.com)** | A word game — six tries, hand-curated word list |
-| **[minnos.cc](https://minnos.cc)** | English idioms, one cat at a time — audio + Uzbek |
-| **[explainer-engine](https://github.com/maqsudjon-cell/explainer-engine)** | Topic → branded explainer video, soundtrack generated from code |
-| **[maqsudjon.com](https://maqsudjon.com)** | Personal site — real-time video→ASCII engine, sprite-atlas renderer, adaptive quality, in-page terminal, PWA, EN/UZ |
+| **[Zitou](https://zitou.app)** | Chinese for Uzbek speakers — a 124,000+ word dictionary, all HSK lists, HSK 3.0 mock exams, stroke-order writing, classes and live games for teachers. On the App Store, in Telegram and on the web ([zitou.uz](https://zitou.uz)) |
+| **[Ferra](https://tou.gg/ferra/)** | AI agents for iPhone — one job and one model per agent, nothing sent without approval. [ferra.tou.gg](https://ferra.tou.gg) turns a topic into a finished slide deck |
+| **[FlareStamina](https://flarestamina.com)** | Free IELTS practice — 144 tests, an AI writing lab, a speaking lab, no paywall |
+| **[AI Lenta](https://ailenta.uz)** | An Uzbek AI news wire with nobody in the loop — every number in a summary is checked against its source |
+| **[Pierics](https://pierics.com)** · **[Minnos](https://minnos.cc)** | A five-letter word game for IELTS vocabulary · English idioms, one cat at a time |
+| **[Tadam](https://tadam.uz)** | Every wedding photo in one album, from one QR code — no app, no account |
+| **[Chertma](https://chertma.maqsudjon.com)** · **[Nullsample](https://nullsample.maqsudjon.com)** | Plain ASCII in, correct Uzbek out · music computed from arithmetic, zero samples |
+| **Client sites** | [ZED AVLOD School](https://zedavlod.uz) · [CTN Language Centre](https://ctnlc.uz) · two metalwork workshop catalogues |
 
 ### 🎯 Now
 
-→ Growing Flarestamina past 100 free tests
-→ Building AI agents and LLM tooling
-→ Open to collaborations and internships
+- Zitou and Ferra on the App Store, FlareStamina at 144 tests, AI Lenta running hourly
+- Open to full-time remote work (Europe / US / Gulf overlap) or on-site in Tashkent
 
 ### 🛠 Stack
 
-`JavaScript` `Canvas 2D` `Web Audio` `PWA` `Firebase` `Firestore` `Supabase` `Python` `GitHub Pages` `Cloudflare` — no frameworks, no build steps, single self-contained files.
+`JavaScript / TypeScript` `Node` `Python` `Swift / SwiftUI` `Capacitor` `Cloudflare Workers` `D1 / R2` `Firebase` `Supabase` `Telegram Mini Apps` `Claude API` `OpenRouter` `GitHub Actions` `GitHub Pages` `Web Audio` `Canvas`
 
 ---
 
-🌐 **[maqsudjon.com](https://maqsudjon.com)** · 📄 **[CV (one page)](https://maqsudjon.com/cv.pdf)** · ✉️ polatovmaqsudjon1@gmail.com · 💬 [t.me/mrbmp13](https://t.me/mrbmp13)
+### 📬 Find me
+
+<table>
+<tr>
+<td><a href="https://t.me/ferrasium"><img src="icons/telegram.svg" width="32" alt="Telegram"></a></td>
+<td><a href="https://t.me/ferrasium"><b>Telegram</b></a> · @ferrasium</td>
+<td><a href="https://t.me/ferrasiums"><img src="icons/telegram.svg" width="32" alt="Telegram channel"></a></td>
+<td><a href="https://t.me/ferrasiums"><b>Channel</b></a> · @ferrasiums</td>
+</tr>
+<tr>
+<td><a href="https://www.instagram.com/ferrasiums"><img src="icons/instagram.svg" width="32" alt="Instagram"></a></td>
+<td><a href="https://www.instagram.com/ferrasiums"><b>Instagram</b></a> · @ferrasiums</td>
+<td><a href="https://x.com/ferrasium"><img src="icons/x.svg" width="32" alt="X"></a></td>
+<td><a href="https://x.com/ferrasium"><b>X</b></a> · @ferrasium</td>
+</tr>
+<tr>
+<td><a href="https://youtube.com/@ferrasium"><img src="icons/youtube.svg" width="32" alt="YouTube"></a></td>
+<td><a href="https://youtube.com/@ferrasium"><b>YouTube</b></a> · @ferrasium</td>
+<td><a href="https://zitou.app/@ferrasium"><img src="icons/zitou.svg" width="32" alt="Zitou"></a></td>
+<td><a href="https://zitou.app/@ferrasium"><b>Zitou</b></a> · @ferrasium</td>
+</tr>
+<tr>
+<td><a href="https://open.spotify.com/artist/7gyBtPQMFaZbn0iHqtB9nW"><img src="icons/spotify.svg" width="32" alt="Spotify"></a></td>
+<td><a href="https://open.spotify.com/artist/7gyBtPQMFaZbn0iHqtB9nW"><b>Spotify</b></a></td>
+<td><a href="https://music.yandex.com/artist/26563617"><img src="icons/yandex-music.svg" width="32" alt="Yandex Music"></a></td>
+<td><a href="https://music.yandex.com/artist/26563617"><b>Yandex Music</b></a></td>
+</tr>
+<tr>
+<td><a href="https://www.reddit.com/user/mrbmp13/"><img src="icons/reddit.svg" width="32" alt="Reddit"></a></td>
+<td><a href="https://www.reddit.com/user/mrbmp13/"><b>Reddit</b></a> · u/mrbmp13</td>
+<td><a href="https://medium.com/@polatovmaqsudjon1"><img src="icons/medium.svg" width="32" alt="Medium"></a></td>
+<td><a href="https://medium.com/@polatovmaqsudjon1"><b>Medium</b></a> · @polatovmaqsudjon1</td>
+</tr>
+<tr>
+<td><a href="mailto:polatovmaqsudjon1@gmail.com"><img src="icons/mail.svg" width="32" alt="Email"></a></td>
+<td><a href="mailto:polatovmaqsudjon1@gmail.com"><b>Email</b></a> · polatovmaqsudjon1@gmail.com</td>
+<td><a href="https://huggingface.co/Maqsudjonpolatov"><img src="icons/huggingface.svg" width="32" alt="Hugging Face"></a></td>
+<td><a href="https://huggingface.co/Maqsudjonpolatov"><b>Hugging Face</b></a> · Maqsudjonpolatov</td>
+</tr>
+</table>
+
+<sub>FlareStamina: [Telegram](https://t.me/flarestamina) · [X @flarestamina](https://x.com/flarestamina) — Zitou: [Telegram @zitougg](https://t.me/zitougg) · [YouTube @zitouapp](https://youtube.com/@zitouapp) · [X @zitouapp](https://x.com/zitouapp)</sub>
